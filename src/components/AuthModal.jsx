@@ -307,7 +307,7 @@ export default function AuthModal() {
               </button>
             </form>
 
-            {mode === 'login' && (
+            {import.meta.env.DEV && mode === 'login' && (
               <div className="mt-4 p-3 rounded-xl bg-slate-900/70 border border-slate-800 text-[11px] text-slate-400 space-y-1">
                 <div className="font-semibold text-slate-300">Demo Credentials:</div>
                 <div>
