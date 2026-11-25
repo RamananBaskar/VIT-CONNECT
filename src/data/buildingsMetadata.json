@@ -1,0 +1,852 @@
+{
+  "Building": {
+    "displayName": "MH-D Men's Hostel-D",
+    "type": "hostel",
+    "description": " At VIT Chennai, the hostel system includes five Men’s Hostels and two Ladies’ Hostels, each designed to provide a safe, comfortable, and enriching residential experience.\nEvery hostel is equipped with state-of-the-art gymnasiums and indoor games facilities, high-speed Wi-Fi connectivity, centralized washing machine services, and 24/7 in-house medical care with ambulance support through a tie-up with a reputed hospital.\nStudents can relax and unwind in entertainment halls, enjoy open-air movie screenings, and access exclusive visitors’ lounges. Snack vending machines are available across all hostel blocks. Safety is ensured through round-the-clock security personnel and comprehensive CCTV surveillance across the hostel premises.\nAdditional amenities include RO-treated drinking water on every floor, solar hot water for bathing, excellent housekeeping with a green and eco-friendly ambience, and fresh fruit and juice stalls within the campus. The hostels maintain a strictly smoking-free and ragging-free environment.\nVIT Chennai hostels also follow a paperless green campus system, enabling digital management of outings, leave approvals, information displays, and campus events.\nSpacious and hygienic dining halls cater to diverse tastes, offering vegetarian, non-vegetarian, special, and Food Park dining options, managed by multiple caterers. Special festival menus are served regularly, along with night canteen services for daily refreshments.\n D1 Block houses 2,580 male students in fully air-conditioned 2, 4, and 6-bedded rooms. It features a Juice Stall, Open-Air Gym, and indoor games facilities, blending comfort with wellness.",
+    "image": "./assets/Hostel/Thumbnail/HOSTEL-D1-BLOCK.jpg",
+    "panoramaUrl": "./assets/Hostel/360/HOSTEL-D1-BLOCK.jpg",
+    "subLocations": [
+      {
+        "id": "Hostel_D1_Block_Mess",
+        "name": "MH-D Men's Hostel-D Mess",
+        "type": "hostel",
+        "description": " ",
+        "image": "./assets/Hostel/Thumbnail/D1BlockMess.jpg",
+        "panoramaUrl": "./assets/Hostel/360/D1BlockMess.jpg"
+      },
+      {
+        "id": "Hostel_D1_Block_4_Bedroom",
+        "name": "4 Bedroom",
+        "type": "facility",
+        "description": " ",
+        "image": "./assets/Hostel/Thumbnail/D1Block4Bedroom.jpg",
+        "panoramaUrl": "./assets/Hostel/360/D1Block4Bedroom.jpg"
+      }
+    ]
+  },
+  "Building001": {
+    "displayName": "Academic Block 3",
+    "type": "academic",
+    "description": " ",
+    "image": "./assets/AB3/Thumbnail/AB3-EXTERIOR.jpg",
+    "panoramaUrl": "./assets/AB3/360/AB3 EXTERIOR.jpg",
+    "subLocations": [
+      {
+        "id": "AB3_Room_001_Classroom",
+        "name": "AB3 Classroom",
+        "type": "academic",
+        "description": " ",
+        "image": "./assets/AB3/Thumbnail/AB3-CLASSROOM.jpg",
+        "panoramaUrl": "./assets/AB3/360/AB3-CLASSROOM.jpg"
+      },
+      {
+        "id": "AB3_Kamaraj_Auditorium",
+        "name": "AB3 Kamaraj Auditorium",
+        "type": "auditorium",
+        "description": "A modern, visually stunning, and an air-conditioned indoor auditorium named after the late Tamil Chief Minister, the Kamarajar Auditorium with a seating capacity 400 of is a place that organizes many activities engaging students to support their skill development.",
+        "image": "./assets/AB3/Thumbnail/KAMARAJ-AUDITORIUM.jpg",
+        "panoramaUrl": "./assets/AB3/360/KAMARAJ-AUDITORIUM.jpg"
+      },
+      {
+        "id": "AB3_Room_002_EV_Hybrid_Lab",
+        "name": "AB3-002 Electric & Hybrid Vehicle Lab",
+        "type": "Lab",
+        "description": "The Electric and Hybrid Vehicle (EHV) Laboratory at Vellore Institute of Technology Chennai is a modern teaching and research lab dedicated to emerging technologies in electric and hybrid mobility. The laboratory is located at Academic Block–3, Ground Floor, 002, and functions under the School of Mechanical Engineering (SMEC).\n The laboratory provides hands-on learning and experimental exposure to key subsystems of electric and hybrid vehicles, enabling students to understand powertrain operation, energy storage, motor performance, regenerative braking, thermal management, and hybrid energy management strategies. It supports undergraduate, postgraduate, and research activities, fostering industry-relevant skills and innovation in sustainable transportation. The experimental facilities include performance studies of AC induction motors, BLDC motors, axial flux PMSM motors, and switched reluctance motors for electric vehicle applications. The laboratory also supports studies on regenerative braking systems, super capacitor-based energy storage, battery management systems with fault diagnosis, battery and motor cooling systems, fuel cell systems, and hybrid vehicle energy management, including SI engine operation in hybrid mode.\n In addition to experimental infrastructure, the laboratory is integrated with a Computational Design and Visualization Facility comprising 20 high-performance workstations. These systems are equipped with industry-standard software such as SolidWorks, ANSYS Fluent, COMSOL Multi-physics, STAR-CCM+, and MATLAB, enabling advanced modeling, simulation, and analysis of electric and hybrid vehicle systems.",
+        "image": "./assets/AB3/Thumbnail/ELECTRIC-&-HYBRID-VEHICLE-LABORATORY.jpg",
+        "panoramaUrl": "./assets/AB3/360/ELECTRIC-&-HYBRID-VEHICLE-LABORATORY.jpg"
+      },
+      {
+        "id": "AB3_Room_008_FIST_Lab_01",
+        "name": "AB3-008 FIST Lab 01",
+        "type": "Lab",
+        "description": "The FIST (Fund for Improvement of S&T Infrastructure) Laboratory at VIT Chennai is an advanced research facility established to support cutting-edge experimental investigations in materials science and solid mechanics. The laboratory is equipped with state-of-the-art characterization systems that enable high-precision mechanical and viscoelastic analysis of advanced materials, ranging from polymers and composites to thin films and nano-engineered systems.\nThe facility primarily houses two high-end instruments:\n• TA Instruments Dynamic Mechanical Analyser (DMA) 850\n• Bruker TS 77 Nano Indenter\nThese systems enable multi-scale mechanical characterization—from bulk viscoelastic response to nano-scale mechanical properties—making the lab a comprehensive platform for advanced materials research.\n1. Dynamic Mechanical Analyser – TA Instruments DMA 850\nThe DMA 850 is a high-performance instrument designed for precise characterization of viscoelastic materials under controlled mechanical and thermal environments.\nKey Capabilities:\n• Measurement of storage modulus (E′), loss modulus (E″), and damping factor (tan δ)\n• Temperature sweep, frequency sweep, and time sweep analysis\n• Determination of glass transition temperature (Tg)\n• Creep and stress relaxation studies\n• Multi-frequency and multi-strain testing\n• Sub-ambient to elevated temperature testing\n• Controlled force and strain modes\nApplications:\n• Characterization of polymeric and composite materials\n• Evaluation of damping and vibration control materials\n• Viscoelastic modelling and Prony series parameter extraction\n• Fatigue and durability studies\n• Thermo-mechanical behavior of aerospace and automotive materials\n• Research in smart materials and magneto-rheological elastomers\n \n2. Bruker TS 77 Nano Indenter\nThe Bruker TS 77 Nano Indenter is an advanced nano-mechanical testing system designed to evaluate mechanical properties at micro- and nano-scales with exceptional accuracy.\nKey Capabilities:\n• Measurement of hardness and elastic modulus\n• Load–displacement analysis\n• Thin film and coating characterization\n• High-resolution force and displacement control\n• Creep and time-dependent nano-mechanical analysis\n• Mapping of spatial mechanical property variations\nApplications:\n• Thin film and coating evaluation\n• Nano-composite characterization\n• Surface engineering studies\n• Microstructural mechanical property mapping\n• MEMS and micro-device material analysis\n",
+        "image": "./assets/AB3/Thumbnail/FIST-LAB.jpg",
+        "panoramaUrl": "./assets/AB3/360/FIST-LAB.jpg"
+      },
+      {
+        "id": "AB3_Room_008_FIST_Lab_02",
+        "name": "AB3-008 FIST Lab 02",
+        "type": "Lab",
+        "description": " ",
+        "image": "./assets/AB3/Thumbnail/FIST-LAB02.jpg",
+        "panoramaUrl": "./assets/AB3/360/FIST-LAB02.jpg"
+      },
+      {
+        "id": "AB3_Room_009_NVH_Lab",
+        "name": "AB3-009 Noise, Vibration and Harshness Lab",
+        "type": "Lab",
+        "description": "The VIT NVH Laboratory is a state-of-the-art facility dedicated to advanced noise, vibration, and harshness (NVH) measurement, analysis, and validation for academic research, sponsored projects, and industry-oriented consultancy. The laboratory is equipped with high-end data acquisition systems, precision sensors, and advanced analysis software, enabling end-to-end experimental characterization of structural dynamics, acoustics, and vibro-acoustic behavior of components and assemblies.\n The lab supports high-fidelity vibration and acoustic measurements using Siemens SCADAS DAQ with LMS Testlab and M+P VibPilot/Analyzer systems, enabling time-domain acquisition, FFT and spectral analysis, order tracking, operational deflection shapes, experimental modal analysis, and MIMO vibration testing. These capabilities are well suited for rotating machinery, rail–track systems, automotive components, and industrial structures. A comprehensive suite of precision accelerometers (uniaxial and triaxial from Kistler and Dytran), impact hammers, and tachometer inputs allows accurate assessment of structural response, joint dynamics, bolt and fastener behavior, durability, shock, and vibration performance. Advanced test methodologies support indirect bolt preload assessment, joint stiffness evaluation, resonance tracking, and vibration-based health monitoring.\n For acoustic characterization, the lab is equipped with GRAS sound intensity probes and GRAS / Microtech Gefell microphones, enabling sound power determination, source localization, sound intensity mapping, cabin noise evaluation, and low-noise measurements. Dedicated impedance tubes (30 mm and 100 mm) compliant with ASTM and ISO standards facilitate sound absorption and transmission loss testing of materials over a wide frequency range. Overall, the VIT NVH Lab provides a comprehensive experimental platform for: \n• Structural and experimental modal analysis \n• Vibro-acoustic testing and noise source identification \n• Bolt, joint, and fastener dynamic characterization \n• Material damping, absorption, and transmission studies \n• Industry-relevant NVH problem solving with research-grade accuracy ",
+        "image": "./assets/AB3/Thumbnail/NOISE-VIBRATION-AND-HARSHNESS-LAB.jpg",
+        "panoramaUrl": "./assets/AB3/360/NOISE-VIBRATION-AND-HARSHNESS-LAB.jpg"
+      },
+      {
+        "id": "AB3_Room_310_CPS_Lab",
+        "name": "AB3-310 Cyber Physical System Lab (CPS)",
+        "type": "Lab",
+        "description": "Engineering is imagineering. The vision of the Cyber Physical Systems Lab is to enable the VIT student community to transform their ideas into prototypes within a short span of time. Such proof-of-concept development strengthens students’ thought processes and confidence by fostering parallel thinking and enabling them to connect engineering concepts with real- time problems, ultimately leading to practical solutions.\n Consequently, students gain valuable exposure to industrial problem-solving, research and development laboratories, and system development within the VIT campus itself. Importantly, such an environment creates opportunities to design and develop indigenous technology products for our nation.",
+        "image": "./assets/AB3/Thumbnail/CYBER-PHYSICAL-SYSTEM-LAB.jpg",
+        "panoramaUrl": "./assets/AB3/360/CYBER-PHYSICAL-SYSTEM-LAB.jpg"
+      },
+      {
+        "id": "AB3_Room_311_SMARTS_Lab",
+        "name": "AB3-311 Strategic Machine Automation and Robotic Technology Solutions Lab (SMARTS)",
+        "type": "Lab",
+        "description": "SMARTS lab of VIT Chennai caters the need of students learning requirement in the field of robotics with diversified versions of robot.\nThis lab consists of different types of mobile robotic kit that includes educational version of mobile robots and industrial standard mobile robotic platforms.\nSMARTS lab consists of discrete components including sensors, actuators, microcontrollers and embedded boards that helps students to assemble a robotic system according to the need and requirement for their assignments, lab experiments and capstone projects.\nThese lab activities helps students to learn the practical experimentation and hands on experience about mobile robots.\nThese mobile robots are programmable along with hardware interface facility which makes students to excel in the different field of study like programming skills and hardware interface.\nStudents are also given exposure towards open source robot programming packages like Robot Operating Systems (ROS).\nThis SMARTS lab supports UG, PG students and research scholars for multidisciplinary learning in the field of robotics.",
+        "image": "./assets/AB3/Thumbnail/SMARTS.jpg",
+        "panoramaUrl": "./assets/AB3/360/SMARTS.jpg"
+      },
+      {
+        "id": "AB3_Room_410_RMSPRO_Lab",
+        "name": "AB3-410 Robotics Modelling, Simulation and Programming Lab (RMSPRO)",
+        "type": "Lab",
+        "description": "Robotics lab at VIT Chennai has been established for the students to gain the knowledge and to get exposure on simulations along with understanding the functioning of robots.\nStudents will be made competent in understanding the basic functions of few general purpose robots and they will be allowed to implement their skills on DOBOT Magician Educational Kit and NAO humanoid robot.\nSufficient numbers of LEGO EV3 Core sets are available for the students to understand the various hardware components, simulations and for the implementation.\nThe following are the few set of experiments included in practical classes.",
+        "image": "./assets/AB3/Thumbnail/ROBOTICS-MODELLING-SIMULATION-AND-PROGRAMMING-LAB.jpg",
+        "panoramaUrl": "./assets/AB3/360/ROBOTICS-MODELLING-SIMULATION-AND-PROGRAMMING-LAB.jpg"
+      },
+      {
+        "id": "AB3_Room_502_Samsung_SEED_Lab",
+        "name": "AB3-502 Samsung SEED Lab",
+        "type": "Lab",
+        "description": "\n\nAB3-502 SAMSUNG SEED LAB:\n\nThe SEED Laboratory is spread over an area of approximately 2000 square feet and is specially equipped with a state-of-the-art anechoic and acoustic testing chamber.\nThe chamber incorporates advanced acoustic treatment, including variable absorbers and diffusers, enabling precise control of reverberation time.\nThe reverberation time can be adjusted from 0.06 seconds (suitable for speech analysis) to 0.18 seconds (suitable for music and other complex sounds).\n\nThis facility is among the first of its kind in India, designed to support cutting-edge research and development in the areas of audio signal processing, acoustics, and electroacoustic system evaluation.\nWithin this chamber, the performance of a wide range of devices can be tested and analyzed, including:\nTelephones and communication handsets\nAudio conferencing devices\nMicrophones and loudspeakers\nHeadphones and headsets\n\nHearing aids and hearing protection devices\nIn addition to the anechoic chamber, the laboratory houses a dedicated data capture and analysis room, equipped with the latest high-precision measurement instruments and software tools.\nThe facility also includes a secure data storage and archival system, capable of storing, managing, and retrieving large volumes of experimental and research data.\n\n Academic and Research Collaboration\n\nCollaborative research projects will be undertaken by third- and fourth-year B.Tech students, M.Tech students, and doctoral (Ph.D.) scholars.\nThese projects will be closely mentored and jointly supervised in collaboration with SRI-B engineers, ensuring strong industry–academia interaction and real-world problem exposure.\n\nVision and Objectives of the Laboratory \n\nThe long-term vision of this laboratory is to develop it into a national hub for young researchers and innovators in the field of acoustics and audio engineering.\nThe lab aims to:\nStrengthen hands-on research and development capabilities among students\nBridge the gap between theoretical knowledge and practical implementation\nEncourage innovation, interdisciplinary research, and collaborative problem-solving\nSupport high-quality research outputs leading to publications, patents, and product development. Through these initiatives, the SEED Laboratory will significantly contribute to building industry-ready professionals and fostering a culture of research excellence and technological innovation.",
+        "image": "./assets/AB3/Thumbnail/SAMSUNG-LAB.jpg",
+        "panoramaUrl": "./assets/AB3/360/SAMSUNG-LAB.jpg"
+      },
+      {
+        "id": "AB3_Room_510_5G_Lab",
+        "name": "AB3-510 5G Lab",
+        "type": "Lab",
+        "description": "The 5G Labs initiative represents a government-backed effort by India's Department of Telecommunications to democratize access to next-generation wireless technology.\nThe program involves establishing 100 5G Use Case Labs across educational institutions nationwide, with the primary goal of developing skilled professionals and fostering innovation among students and startup communities.\nThese labs enable hands-on experimentation and development of 5G applications across diverse sectors including education, agriculture, healthcare, logistics, and e-governance, supporting India's vision of technological self-reliance.\nThe lab infrastructure is powered by Signaltron Systems' indigenously developed 5G technology stack.\nAt its core is the Sahyadri series gNodeB (base station), featuring the STGNB2215 model—a compact, highly integrated 5G base station that consolidates all NR functions within a single enclosure.\nThe base station incorporates Signalchip's advanced SCRF4502 chipset, which delivers high-fidelity RF performance with integrated signal processing capabilities like DPD and CFR for optimal 5G signal transmission and reception across multiple frequency bands.\nThe lab environment combines hardware and software components to create a comprehensive 5G ecosystem.\nIt integrates a complete 5G core network, IMS services, and Multi-Access Edge Computing (MEC) servers, accessible through NiralOS—a cutting-edge platform featuring a web-based interface for monitoring and managing core functions, connectivity, and edge computing.\nTraining covers essential practical topics including MEC deployment, 5G camera operations, IoT gateway integration, and emerging use cases like XR headsets and AI-powered object detection, equipping participants with industry-relevant skills in this transformative technology.",
+        "image": "./assets/AB3/Thumbnail/5G-LAB.jpg",
+        "panoramaUrl": "./assets/AB3/360/5G-LAB.jpg"
+      },
+      {
+        "id": "AB3_710_ADAPT_Lab",
+        "name": "AB3-710 Advanced Drone Automation and Precision Technology Lab (ADAPT)",
+        "type": "Lab",
+        "description": "The Advanced Drone Automation and Precision Technology (ADAPT) Lab is a cutting-edge research and innovation facility dedicated to advancing drone and autonomous aerial systems.\nThis lab focuses on bridging academic research with real-world applications through intelligent, reliable, and scalable UAV technologies.\n\nADAPT Lab supports the design and development of next-generation drones, UAV swarms, and advanced flight control systems.\nIts core research areas include autonomous navigation, payload delivery, aerial surveying, precision agriculture, and disaster response, with a strong emphasis on advanced control and sensing technologies.\n\nThe lab also serves as a hands-on learning and experimentation hub, providing students and researchers with practical experience in UAV prototyping, simulation, and field testing.\nThrough industry collaborations and funded research projects, ADAPT Lab continues to drive impactful solutions for logistics, environmental monitoring, and smart infrastructure.",
+        "image": "./assets/AB3/Thumbnail/ADVANCE-DRONE-AUTOMATION-AND-PRECISION-TECH-LAB.jpg",
+        "panoramaUrl": "./assets/AB3/360/ADVANCE-DRONE-AUTOMATION-AND-PRECISION-TECH-LAB.jpg"
+      },
+      {
+        "id": "AB3_amphitheatre",
+        "name": "AB3 Amphitheatre",
+        "type": "facility",
+        "description": " ",
+        "image": "./assets/AB3/Thumbnail/AB3-Amphitheatre.jpg",
+        "panoramaUrl": "./assets/AB3/360/AB3-Amphitheatre.jpg"
+      }
+    ]
+  },
+  "Building002": {
+    "displayName": "MH-A Men's Hostel-A",
+    "type": "hostel",
+    "description": " At VIT Chennai, the hostel system includes five Men’s Hostels and two Ladies’ Hostels, each designed to provide a safe, comfortable, and enriching residential experience.\nEvery hostel is equipped with state-of-the-art gymnasiums and indoor games facilities, high-speed Wi-Fi connectivity, centralized washing machine services, and 24/7 in-house medical care with ambulance support through a tie-up with a reputed hospital.\nStudents can relax and unwind in entertainment halls, enjoy open-air movie screenings, and access exclusive visitors’ lounges. Snack vending machines are available across all hostel blocks. Safety is ensured through round-the-clock security personnel and comprehensive CCTV surveillance across the hostel premises.\nAdditional amenities include RO-treated drinking water on every floor, solar hot water for bathing, excellent housekeeping with a green and eco-friendly ambience, and fresh fruit and juice stalls within the campus. The hostels maintain a strictly smoking-free and ragging-free environment.\nVIT Chennai hostels also follow a paperless green campus system, enabling digital management of outings, leave approvals, information displays, and campus events.\nSpacious and hygienic dining halls cater to diverse tastes, offering vegetarian, non-vegetarian, special, and Food Park dining options, managed by multiple caterers. Special festival menus are served regularly, along with night canteen services for daily refreshments.\n\nMen's Hostel:\n A Block accommodates 2,358 male students in 2-, 3-, and 4-bedded A/C and Non-A/C rooms. The block offers modern amenities such as a Night Canteen, Gymnasium, Badminton Court, indoor games facilities, and a Juice Stall, ensuring a comfortable and active campus life.",
+    "image": "./assets/Hostel/Thumbnail/HOSTEL A BLOCK.jpg",
+    "panoramaUrl": "./assets/Hostel/360/HOSTEL-A-BLOCK.jpg",
+    "subLocations": [
+      {
+        "id": "Hostel_A_Block_2_Bedroom",
+        "name": "2 Bedroom",
+        "type": "hostel",
+        "description": " ",
+        "image": "./assets/Hostel/Thumbnail/2BAroom.jpg",
+        "panoramaUrl": "./assets/Hostel/360/2BAroom.jpg"
+      }
+    ]
+  },
+  "Building003": {
+    "displayName": "Academic Block 4",
+    "type": "academic",
+    "description": " ",
+    "image": "./assets/AB1/Thumbnail/AB1-EXTERIOR.jpg",
+    "panoramaUrl": "",
+    "subLocations": [
+      {
+        "id": "AB4_Room_006_Centre_for_Smart_Grid_Technologies",
+        "name": "AB4-006 Centre for Smart Grid Technologies",
+        "type": "Lab",
+        "description": "Welcome to the Centre for Smart Grid Technologies (CSGT), a premier interdisciplinary research centre at Vellore Institute of Technology, Chennai.\nEstablished in August 2022, CSGT is dedicated to advancing next-generation smart grid technologies through strong collaboration with academia, industry, and global research partners.\nAs you begin this immersive 360-degree tour, you will explore a vibrant ecosystem where innovation, sustainability, and real-world energy solutions come together to shape the future of power systems.\n\nGuided by a clear vision to build a globally competitive smart grid research hub,CSGT actively focuses on technology development, applied research, and capacity building in emerging areas of modern power networks.\n\nResearch Conducted in CSGT:\n\n As you explore the Centre for Smart Grid Technologies, you will discover a vibrant research ecosystem focused on addressing the evolving challenges of modern power systems.\nResearch at CSGT spans renewable energy integration, smart grid operation, and intelligent power management, with strong emphasis on real-world applicability.\nThe Centre actively conducts studies on photovoltaic and wind energy systems, including maximum power point tracking, voltage regulation, and performance optimization under varying environmental conditions.\nAdvanced research is also carried out in microgrids, electric vehicle charging infrastructure, bidirectional power converters, and vehicle-to-grid technologies.\nBy integrating artificial intelligence and data analytics, CSGT develops predictive models for energy forecasting, system monitoring, and efficient grid operation.\n\nThese research efforts are supported by industry collaboration, funded projects, and pilot demonstrations, ensuring that innovations developed at the Centre translate into impactful and scalable energy solutions.\n\nLab Research Facilities in CSGT\n\nAs you move through the Centre for Smart Grid Technologies, you will encounter acomprehensive suite of advanced hardware and software facilities that support real-time experimentation, modeling, and validation of modern power systems. At the core of the laboratory is the OPAL-RT 4610XG real-time simulator, which enables high-fidelity simulation of power systems and power electronics networks under realistic operating conditions. This platform allows researchers to study microgrids, renewable integration, protection schemes, and controller performance in a hardware-in-the-loop environment.\n\n To support experimental validation, the laboratory is equipped with programmable DC electronic loads and bidirectional programmable DC power supplies integrated with solar array simulation software. These facilities are extensively used for testing newly developed power converter prototypes, analyzing bidirectional power flow, and evaluating system behavior under dynamic load and generation scenarios. A wind turbine emulator further enhances research capability by enabling the study of DFIG-based wind energy conversion systems under varying wind and grid conditions.\n\n The Centre is also supported by advanced measurement and analysis tools, including a four-channel mixed-signal oscilloscope that allows simultaneous observation of analog and digital signals, essential for validating control algorithms and converter performance. In addition, specialized software platforms such as HOMER PRO and HOMER GRID are used to analyze cost-optimal solutions for standalone systems, microgrids, islanded utilities, and grid-connected facilities, including electric vehicle charging infrastructure. Power system modeling and controller validation are carried out using HYPERSIM, while battery simulation software enables the emulation of various battery profiles up to 6 kW capacity.Together, these integrated research facilities provide a robust experimental ecosystem that supports cutting-edge research, technology validation, and industry-relevant smart grid solutions at CSGT.",
+        "image": "./assets/AB4/Thumbnail/CENTRE-FOR-SMART-GRID-TECHNOLOGIES.jpg",
+        "panoramaUrl": "./assets/AB4/360/CENTRE-FOR-SMART-GRID-TECHNOLOGIES.jpg"
+      },
+      {
+        "id": "AB4_Room_101_Cyber_Physical_Systems",
+        "name": "AB4-101 Centre for Cyber Physical Systems",
+        "type": "Lab",
+        "description": "Centre for Cyber Physical Systems (CCPS) aims promoting collaborative research activities with impetus on developing and interfacing intelligent devices with enhanced cyber security.\nThe much contemplated Smart cities, Industry 4.0 and Health care 4.0 are quintessentially dependent on the advances realized in CPS, targeting in the process a more responsive, precise, reliable and efficient systems.\nIt is therefore axiomatic that innovation in CPS holds the key in reshaping the world.\nWith the intention to align with the evolution, VIT CCPS will spearhead and support advances in the fundamental knowledge and tools, to make Cyber Physical Systems a pragmatic reality.",
+        "image": "./assets/AB4/Thumbnail/CENTRE-FOR-CYBER-PHYSICAL-SYSTEMS.jpg",
+        "panoramaUrl": "./assets/AB4/360/CENTRE-FOR-CYBER-PHYSICAL-SYSTEMS.jpg"
+      },
+      {
+        "id": "AB4_Room_102_Neuroinformatics",
+        "name": "AB4-102 Centre for Neuroinformatics",
+        "type": "Lab",
+        "description": "The Neuroinformatics Laboratory at Vellore Institute of Technology (VIT), Chennai, is a\nmultidisciplinary research facility dedicated to advancing brain–computer interface (BCI),\nmultimodal human behaviour analysis, immersive analytics, and intelligent healthcare technologies.\nThe lab is designed to acquire, synchronize, and analyse real-time neural and behavioural signals,\nenabling research in cognitive state decoding, biometric authentication, neuro-rehabilitation,\nhuman–AI interaction, and extended reality (XR) environments. A key focus of the laboratory is the\ncreation of synchronized multimodal datasets combining electroencephalography (EEG), eye-gaze,\nand facial expression signals.\n\nHardware Infrastructure\nThe laboratory is equipped with a tightly integrated neuro-XR recording ecosystem that allows\nsimultaneous acquisition of brain signals and behavioural responses.\n1. DSI-7 EEG System (Adult)\nA wireless wearable EEG headset used for high-quality acquisition of brainwave signals. The system\nsupports mobile recording scenarios and enables naturalistic experiments where participants can\nmove freely during cognitive and behavioural tasks. It is suitable for studies in attention monitoring,\nemotion recognition, workload estimation, neuromarketing, and biometric authentication.\n2. VR+7 Adapter\nAn EEG-VR interface module that integrates the EEG headset with virtual reality environments. This\nadapter allows synchronized recording of neural responses during immersive simulations, making it\npossible to study perception, decision-making, spatial navigation, and motor behaviour in controlled\nvirtual environments.\n3. HTC VIVE XR Elite Headset\nA high-end extended reality headset equipped with eye-tracking and facial motion sensors. The\ndevice captures gaze patterns and facial expressions in real time, enabling research in cognitive\nengagement, affective computing, user intent prediction, and immersive interaction analysis.\n4. Wireless Trigger Hub (DSI-WTH)\nA synchronization unit that aligns experimental stimuli with EEG recordings. This ensures precise\ntemporal correlation between presented events (visual/audio/VR stimuli) and neural responses,\nwhich is essential for event-related potential (ERP) studies and neuro-cognitive experiments.\nTogether, these devices enable the lab to build synchronized multimodal datasets combining neural\nactivity, gaze behaviour, and facial dynamics during real-world and virtual tasks.\n\nSoftware Ecosystem\nThe hardware infrastructure is supported by a comprehensive software stack for acquisition,\nvisualization, and analysis of neurophysiological signals.\n\nQState-V2\nA real-time EEG signal processing platform used for classification, visualization, and monitoring of\nbrain activity. It allows immediate interpretation of cognitive states during experiments.\nDSI Streaming Software\nHandles live EEG data acquisition, logging, and export. It provides reliable storage of raw signals for\noffline analysis, machine learning model training, and reproducible research.\nVIVE Business Streaming / SRAnipal SDK\nProvides access to gaze tracking and facial expression data streams from the XR headset. This\nenables researchers to correlate behavioural features with neural activity.\n\nResearch Capabilities\nWith synchronized neural, behavioural, and immersive sensing technologies, the Neuroinformatics\nLab supports research in:\n• Brain–computer interfaces (BCI) and neurofeedback\n• Multimodal biometric authentication (EEG + gaze + face)\n• Cognitive load and attention monitoring\n• Emotion and affective computing\n• Neuro-rehabilitation and motor intention decoding\n• Human behaviour analysis in virtual environments\n• Explainable AI models for brain signal interpretation\n• Healthcare analytics and digital therapeutics\n\nConclusion\nThe Neuroinformatics Laboratory at VIT Chennai provides a state-of-the-art environment for\nconducting advanced neuroscience and AI research. By combining wearable EEG, immersive XR\nsensing, synchronized triggering systems, and real-time analytics software, the lab enables\ncomprehensive multimodal human state understanding. This facility supports interdisciplinary\ncollaboration across computer science, biomedical engineering, psychology, and healthcare,\npositioning VIT Chennai as a leading centre for neurotechnology and intelligent human-machine\ninteraction research.",
+        "image": "./assets/AB4/Thumbnail/CENTRE-FOR-NEUROINFORMATICS.jpg",
+        "panoramaUrl": "./assets/AB4/360/CENTRE-FOR-NEUROINFORMATICS.jpg"
+      },
+      {
+        "id": "AB4_Room_105_CHAIR",
+        "name": "AB4-105 Centre for Healthcare Advanced, Innovation and Research (CHAIR)",
+        "type": "Lab",
+        "description": "About CHAIR:\nCentre for Healthcare Advancement, Innovation and Research aims in bringing a fresh perspective to the challenges of embedding health and social care innovations, sustainability at large. We bring together experts from a variety of disciplines across, including electronics engineers, bioengineers, computer scientists, chemists, healthcare professionals and clinicians.\n\nRESEARCH EXPERTISE \n• AI and Deep Learning applications in healthcare \n• Quantum Computing in Bioengineering \n• Wearable Technology\n• e-health and m-health Medical Imaging\n• Rehabilitative and Assistive technology \n• Bioinformatics tools to analyse drug delivery and drug discovery \n• Optic and Photonic sensors for biochemical and disease detection \n• Lab-on-Chip and photonic systems for wearable health monitoring \n• FPGA implementation of algorithms\nKEY HIGHLIGHTS \n• Research excellence with more than ₹7 crores of funding Government-funded projects: DBT, DST, SERB, ICMR, ISRO, ANRF & Indo-Taiwan \n• MeitY supported Start–up grants \n• MoU with major hospitals for real-time projects \n• DST –WISE PhD Fellows and CSRI-Post-Doc Fellows \n• Faculty recognized with DHR-ICMR International Fellowship \n• Active consultancy & patent portfolios\nRESEARCH FACILITIES \n• Bio-signal/Medical Imaging -Data acquisition and Monitoring\n• Wearable and assistive devices\n• 3D materialize software for medical implants\n• Optical fibre sensing & biosensor laboratories \n• FPGA & signal processing platforms \n• Cell culture & biomedical imaging facilities",
+        "image": "./assets/AB4/Thumbnail/CENTRE-FOR-HEALTHCARE-ADVANCED-INNOVATION-AND-RESEARCH.jpg",
+        "panoramaUrl": "./assets/AB4/360/CENTRE-FOR-HEALTHCARE-ADVANCED-INNOVATION-AND-RESEARCH.jpg"
+      }
+    ]
+  },
+  "Building004": {
+    "displayName": "MH-E Men's Hostel-E",
+    "type": "hostel",
+    "description": "At VIT Chennai, the hostel system includes five Men’s Hostels and two Ladies’ Hostels, each designed to provide a safe, comfortable, and enriching residential experience.\nEvery hostel is equipped with state-of-the-art gymnasiums and indoor games facilities, high-speed Wi-Fi connectivity, centralized washing machine services, and 24/7 in-house medical care with ambulance support through a tie-up with a reputed hospital.\nStudents can relax and unwind in entertainment halls, enjoy open-air movie screenings, and access exclusive visitors’ lounges. Snack vending machines are available across all hostel blocks. Safety is ensured through round-the-clock security personnel and comprehensive CCTV surveillance across the hostel premises.\nAdditional amenities include RO-treated drinking water on every floor, solar hot water for bathing, excellent housekeeping with a green and eco-friendly ambience, and fresh fruit and juice stalls within the campus. The hostels maintain a strictly smoking-free and ragging-free environment.\nVIT Chennai hostels also follow a paperless green campus system, enabling digital management of outings, leave approvals, information displays, and campus events.\nSpacious and hygienic dining halls cater to diverse tastes, offering vegetarian, non-vegetarian, special, and Food Park dining options, managed by multiple caterers. Special festival menus are served regularly, along with night canteen services for daily refreshments.\n D2 Block offers fully air-conditioned 2-, 4-, and 6-bedded accommodation for 2,512 male students. The block includes an Indoor Games Hall, Gymnasium, and a Juice Stall, ensuring a balanced and engaging student lifestyle.",
+    "image": "./assets/Hostel/Thumbnail/HOSTEL-D2-BLOCK.jpg",
+    "panoramaUrl": "./assets/Hostel/360/HOSTEL-D2-BLOCK.jpg",
+    "subLocations": [
+      {
+        "id": "Hostel_D2_Block_Mess",
+        "name": "DMH-E Men's Hostel-E Mess",
+        "type": "hostel",
+        "description": " ",
+        "image": "./assets/Hostel/Thumbnail/D2BlockMess.jpg",
+        "panoramaUrl": "./assets/Hostel/360/D2BlockMess.jpg"
+      },
+      {
+        "id": "Hostel_D2_Block_6_Bedroom",
+        "name": "6 Bedroom",
+        "type": "facility",
+        "description": " ",
+        "image": "./assets/Hostel/Thumbnail/D2Block6Bedroom.jpg",
+        "panoramaUrl": "./assets/Hostel/360/D2Block6Bedroom.jpg"
+      }
+    ]
+  },
+  "Building005": {
+    "displayName": "MH-F Men's Hostel-F",
+    "type": "hostel",
+    "description": "At VIT Chennai, the hostel system includes five Men’s Hostels and two Ladies’ Hostels, each designed to provide a safe, comfortable, and enriching residential experience.\nEvery hostel is equipped with state-of-the-art gymnasiums and indoor games facilities, high-speed Wi-Fi connectivity, centralized washing machine services, and 24/7 in-house medical care with ambulance support through a tie-up with a reputed hospital.\nStudents can relax and unwind in entertainment halls, enjoy open-air movie screenings, and access exclusive visitors’ lounges. Snack vending machines are available across all hostel blocks. Safety is ensured through round-the-clock security personnel and comprehensive CCTV surveillance across the hostel premises.\nAdditional amenities include RO-treated drinking water on every floor, solar hot water for bathing, excellent housekeeping with a green and eco-friendly ambience, and fresh fruit and juice stalls within the campus. The hostels maintain a strictly smoking-free and ragging-free environment.\nVIT Chennai hostels also follow a paperless green campus system, enabling digital management of outings, leave approvals, information displays, and campus events.\nSpacious and hygienic dining halls cater to diverse tastes, offering vegetarian, non-vegetarian, special, and Food Park dining options, managed by multiple caterers. Special festival menus are served regularly, along with night canteen services for daily refreshments.\n\n E Block provides fully air-conditioned 2-, 3-, and 4-bedded accommodation for 3,186 students. Facilities include an Indoor Games Hall, Gymnasium, and a Juice Stall, promoting a healthy and vibrant hostel environment.",
+    "image": "./assets/Hostel/Thumbnail/HOSTEL-E-BLOCK-INSIDE-ENTRANCE.jpg",
+    "panoramaUrl": "",
+    "subLocations": [
+      {
+        "id": "Hostel_E_Block_Mess",
+        "name": "MH-F Men's Hostel-F Mess",
+        "type": "hostel",
+        "description": " ",
+        "image": "./assets/Hostel/Thumbnail/EBlockMess.jpg",
+        "panoramaUrl": "./assets/Hostel/360/EBlockMess.jpg"
+      },
+      {
+        "id": "Hostel_E_Block_2_Bedroom",
+        "name": "2 Bedroom",
+        "type": "facility",
+        "description": " ",
+        "image": "./assets/Hostel/Thumbnail/EBlock2Bedroom.jpg",
+        "panoramaUrl": "./assets/Hostel/360/EBlock2Bedroom.jpg"
+      },
+      {
+        "id": "Hostel_E_Block_3_Bedroom",
+        "name": "3 Bedroom",
+        "type": "facility",
+        "description": " ",
+        "image": "./assets/Hostel/Thumbnail/EBlock3Bedroom.jpg",
+        "panoramaUrl": "./assets/Hostel/360/EBlock3Bedroom.jpg"
+      },
+      {
+        "id": "Hostel_E_Block_4_Bedroom",
+        "name": "4 Bedroom",
+        "type": "facility",
+        "description": " ",
+        "image": "./assets/Hostel/Thumbnail/EBlock4Bedroom.jpg",
+        "panoramaUrl": "./assets/Hostel/360/EBlock4Bedroom.jpg"
+      }
+    ]
+  },
+  "Building006": {
+    "displayName": "Academic Block 2",
+    "type": "academic",
+    "description": " ",
+    "image": "./assets/AB2/Thumbnail/AB2-EXTERIOR.jpg",
+    "panoramaUrl": "./assets/AB2/360/AB2 EXTERIOR.jpg",
+    "subLocations": [
+      {
+        "id": "AB2_Room_002_Smart_Classroom",
+        "name": "AB2 Smart classroom",
+        "type": "academic",
+        "description": " ",
+        "image": "./assets/AB2/Thumbnail/AB2-SMART-CLASSROOM.jpg",
+        "panoramaUrl": "./assets/AB2/360/AB2-SMART-CLASSROOM.jpg"
+      },
+      {
+        "id": "AB2_Room_G02_Microwave_Lab_Anechoic_Chamber",
+        "name": "AB2-G02 Microwave and Antenna Measurement Lab",
+        "type": "Lab",
+        "description": "The Microwave and Antenna Measurement Laboratory is a well-established facility that supports undergraduate teaching, doctoral research, and sponsored consultancy in microwave and antenna engineering. The laboratory is equipped with X-band microwave benches, horn antenna measurement setups, and a comprehensive range of waveguide and microstrip components. The industry-standard electromagnetic design and simulation tools, such as the Ansys Electromagnetics Suite and CST Studio Suite, support advanced modelling, optimisation, and validation of RF and microwave systems. Advanced RF characterisation is facilitated through modern test instruments like vector network analysers and spectrum analysers. A state-of-the-art anechoic chamber provides a controlled environment for precise antenna radiation pattern and gain measurements.",
+        "image": "./assets/AB2/Thumbnail/MICROWAVE-AND-ANTENNA-MEASUREMENT-LAB.jpg",
+        "panoramaUrl": "./assets/AB2/360/MICROWAVE-AND-ANTENNA-MEASUREMENT-LAB.jpg"
+      },
+      {
+        "id": "AB2_Room_003_Anechoic_Chamber",
+        "name": "AB2-003 Anechoic Chamber",
+        "type": "Lab",
+        "description": "Anechoic Chamber for antenna measurement facility helps in the characterization and high-quality experimental verification of the electromagnetically modelled antennas, RF and Microwave devices, MMIC circuits and systems.\nThe major testing facilities for antenna measurement set are the Vector Network Analyzer (VNA) N9918A (30 kHz to 26 GHz) and an extensively built antenna and EMC test Anechoic Chamber that covers frequency from 700 MHz to 18 GHz.\nWith this state-of-art facility, we aim at promoting research through partnerships with academic institutions, government laboratories and industries.\n\n1:Anechoic Chamber (700 MHz to 18 GHz):\n\nAn anechoic chamber is an isolated cabin in which the walls, ceiling and floor are lined with an RF absorbent material to minimize reflections.\nThe chamber facility at Microwave and Antenna Measurement Lab SENSE, VIT Chennai is a new facility created recently in 2017 to generate EM standard results for the antenna testing and EMC far-field measurements.",
+        "image": "./assets/AB2/Thumbnail/ANECHOIC-CHAMBER.jpg",
+        "panoramaUrl": "./assets/AB2/360/ANECHOIC-CHAMBER.jpg"
+      },
+      {
+        "id": "AB2_Room_015_Advanced_Manufacturing_Lab",
+        "name": "AB2-015 Advanced Manufacturing Technology Lab",
+        "type": "Lab",
+        "description": "The School of Mechanical Engineering has established the Advanced Manufacturing Technology Laboratory (AMT Lab) to promote emerging technologies among students and to develop cutting-edge solutions in the field of manufacturing.\nThe laboratory provides comprehensive training to help students keep pace with rapid technological advancements and equip them with in-depth knowledge of modern manufacturing practices.\nThe AMT Lab is equipped with advanced facilities such as a Vertical Machining Centre (VMC), Computer Numerical Control (CNC) Lathe, Die-Sinking EDM Machine, Wire Cut EDM Machine, Robotic Welding Facility, and Friction Stir Welding equipment.\nStudents receive hands-on training on these machines and are actively encouraged to participate in research projects.\nStudents of VIT Chennai have extensively utilized this laboratory for research activities, resulting in the publication of 8 utility patents, 26 research papers in refereed journals, and 18 papers presented at international conferences.",
+        "image": "./assets/AB2/Thumbnail/ADVANCE-MANUFACTURING-TECH-LAB.jpg",
+        "panoramaUrl": "./assets/AB2/360/ADVANCE MANUFACTURING TECH LAB.jpg"
+      },
+      {
+        "id": "AB2_Room_016_Advanced_Electric_Drives_Lab",
+        "name": "AB2-016 Advanced Electric Drives Lab",
+        "type": "Lab",
+        "description": "Step into the Advanced Electric Drives Lab at VIT Chennai, a state-of-the-art facility and a hub for cutting-edge research in electric mobility and industrial drives with many inventions. Here, students gain crucial hands-on experience with modern electric drive systems, including those for Induction Motor, Permanent Magnet Synchronous Motor (PMSM), and Switched Reluctance Motor (SRM).\n The lab is equipped with specialized controllers like dSPACE 1103 and high-end measuring instruments to facilitate complex research on motor control and power converters.\n The lab actively engages in consultancies for leading companies, contributing expertise in motor development and controls. Furthermore, the work drives crucial technology transfer, translating state-of-the-art research into industrial applications and preparing industry-ready engineers in this critical field.",
+        "image": "./assets/AB2/Thumbnail/ADVANCE-ELECTRICAL-DRIVES-LAB-HARDWARE-LAB.jpg",
+        "panoramaUrl": "./assets/AB2/360/ADVANCE ELECTRICAL DRIVES LAB-HARDWARE LAB.jpg"
+      },
+      {
+        "id": "AB2_Room_103A_XRD_Lab",
+        "name": "AB2-103A XRD Lab - Central Instrumentation Facility",
+        "type": "Lab",
+        "description": "The Rigaku Smart Lab X-ray Diffractometer is a state-of-the-art powder XRD system that provides accurate phase identification, crystallographic analysis, and structural refinement of thin films and powder materials. Together, these facilities form a robust characterization ecosystem that enables comprehensive structure–property correlation and significantly strengthens materials research and innovation.",
+        "image": "./assets/AB2/Thumbnail/(xrd-lab)X-RAY-DIFRACTOMETER-XRD.jpg",
+        "panoramaUrl": "./assets/AB2/360/(xrd-lab)X-RAY-DIFRACTOMETER-XRD.jpg"
+      },
+      {
+        "id": "AB2_Room_103A_HRSEM_Lab",
+        "name": "AB2-103A High Resolution Scanning Electron Microscope (HR-SEM)",
+        "type": "Lab",
+        "description": "The Carl Zeiss HR-SEM (Lab-6) is a high-performance characterization tool designed for detailed investigation of surface morphology, microstructure, elemental composition and mapping of materials at micro- and nanoscale resolution. Its advanced electron optics and detectors enable high-contrast imaging and compositional analysis, making it invaluable for studies on nanomaterials, thin films, catalysts, and functional materials.",
+        "image": "./assets/AB2/Thumbnail/(Hrsem-)HIGH-RES-SCANNING-ELECTRON-MICROSCOPE.jpg",
+        "panoramaUrl": "./assets/AB2/360/(Hrsem-)HIGH-RES-SCANNING-ELECTRON-MICROSCOPE.jpg"
+      },
+      {
+        "id": "AB2_Room_104_Aerodynamics_Lab",
+        "name": "AB2-104 Advanced Aerodynamics Lab",
+        "type": "Lab",
+        "description": "The Aerodynamics Laboratory at Vellore Institute of Technology, Chennai Campus (VITCC) is a specialized facility dedicated to experimental education, applied research, and innovation in the field of fluid mechanics and aerodynamics. The laboratory is designed to strengthen the connection between theoretical principles, computational simulations, and real-world aerodynamic behaviour, enabling students to develop strong practical and analytical skills. The laboratory is equipped with two wind tunnels, catering to both fundamental and advanced aerodynamic investigations. These wind tunnels are used to study flow over bluff bodies and scaled models, enabling detailed analysis of lift, drag, pressure distribution, and flow behaviour under varying operating conditions.\n To support accurate flow and force measurements, the lab is equipped with a force–torque sensor, anemometers, and barometers, which together enable precise measurement of aerodynamic forces, flow velocity, and ambient pressure conditions. This integrated instrumentation allows students to evaluate lift and drag forces, calculate aerodynamic coefficients, and account for atmospheric effects during wind tunnel testing, ensuring reliable and repeatable experimental results./n Complementing the experimental studies, the Aerodynamics Laboratory includes a dedicated high-performance computational PC for aerodynamic simulation, data analysis, and post-processing. This system is used to perform CFD simulations and to validate numerical results against experimental data using industry-standard and open-source tools such as ANSYS and OpenFOAM. Additional supporting equipment in the laboratory includes: \n• Pressure measurement systems and manometers for static and dynamic pressure analysis \n• Smoke flow visualization setup for qualitative study of flow patterns, separation, and wake formation \n• Data acquisition systems (DAQ) for real-time recording of force, velocity, and pressure data\n The Aerodynamics Laboratory actively supports interdisciplinary research in areas such as UAV design, wind energy systems, automotive aerodynamics, and renewable energy applications. The laboratory has collaborated with multiple automotive and research laboratories across India on research and testing activities. ",
+        "image": "./assets/AB2/Thumbnail/AERODYNAMICS-LAB.jpg",
+        "panoramaUrl": "./assets/AB2/360/AERODYNAMICS LAB.jpg"
+      },
+      {
+        "id": "AB2_Room_503_CDC",
+        "name": "AB2-503 Career Development Centre",
+        "type": "facility",
+        "description": "The Career Development Centre is to empower students to achieve their career aspirations by providing them with the necessary support, guidance, and resources.\nThe Centre is committed to promoting a culture of lifelong learning and to helping students acquire the skills and knowledge needed to succeed in a rapidly changing job market.\n\nThe primary objective of CDC is to provide students with a variety of career-related services that will help them to prepare for, enter, and succeed in the workforce.\nThe key objectives of CDC are as follows:\n• To provide students with the resources, tools, and guidance they need to explore career options and make informed decisions.\n• To assist students in developing the skills and competencies necessary to succeed in the workforce.\n• To connect students with potential employers and job opportunities.\n• To support students in their job search efforts and provide ongoing career support throughout their professional journey.",
+        "image": "./assets/AB2/Thumbnail/CAREER-DEVELOPMENT-CENTER.jpg",
+        "panoramaUrl": "./assets/AB2/360/CAREER DEVELOPMENT CENTER.jpg"
+      },
+      {
+        "id": "AB2_Room_601A_Micro_Nano_Device_Lab",
+        "name": "AB2-601A Micro and Nano Device Lab",
+        "type": "Lab",
+        "description": "The Micro and Nano Devices Laboratory facilities have been set-up to support the academic programmes at the undergraduate (UG) and the postgraduate (PG) level as well as for research activities of doctoral research scholars.\nThe laboratory houses facilities for silicon and glass micromachining for realizing miniature devices as well as synthesis of novel nanomaterials by wet chemical routes along with characterization techniques for investigating physical and electrical properties.",
+        "image": "./assets/AB2/Thumbnail/MICRO-AND-NANO-DEVICE-LAB-601-A.jpg",
+        "panoramaUrl": "./assets/AB2/360/MICRO AND NANO DEVICE LAB-601 A.jpg"
+      }
+    ]
+  },
+  "Building007": {
+    "displayName": "Academic Block 1",
+    "type": "academic",
+    "description": " ",
+    "image": "./assets/AB1/Thumbnail/AB1-EXTERIOR.jpg",
+    "panoramaUrl": "./assets/AB1/360/AB1 EXTERIOR.jpg",
+    "subLocations": [
+      {
+        "id": "AB1_004 Automobile_Engineering_Lab",
+        "name": " AB1-004 Automobile Engineering Lab",
+        "type": "Lab",
+        "description": "The Automobile Engineering Laboratory at VIT Chennai plays a vital role in providing practical exposure to the principles and systems studied in automobile engineering.\nIt enables students to understand the construction, operation, performance, and testing of various automobile components and systems through hands-on experiments.\nThis laboratory is designed to bridge the gap between theoretical knowledge and real-world automotive applications.\nStudents gain practical experience with ignition systems, transmission systems, braking systems, steering mechanisms and suspension systems.\nThe laboratory also emphasizes the importance of efficiency, environmental regulations, and sustainable automotive practices.\nOne of the important assets of this laboratory is the heavy vehicle working model sponsored by UD Trucks, which helps students understand the overall operation and functioning of a heavy vehicle.\nOverall, the Automobile Engineering Laboratory enhances students’ problem-solving abilities, experimental skills, and understanding of automotive systems, preparing them for professional practice, research, and further studies in the field of automobile engineering.",
+        "image": "./assets/AB1/Thumbnail/Automobile_Engineering_Lab.jpg",
+        "panoramaUrl": "./assets/AB1/360/Automobile_Engineering_Lab.jpg"
+      },
+      {
+        "id": "AB1_Strength_Materials_Lab",
+        "name": " AB1-006 Strength of Materials Lab",
+        "type": "Lab",
+        "description": "The Strength of Materials (SOM) Lab is not just for teaching undergraduates- it also forms a core facility for materials and structural research.\n\n It enables:\n• Characterization of engineering materials (metals, composites, polymers).\n• Quantitative measurement of mechanical properties such as elastic modulus, yield strength, ultimate tensile strength, toughness, fatigue behaviour, hardness, etc.\n• Validation of analytical models and material behaviour hypotheses under real\nloads.\n• Support for Ph.D., M.Tech and R&amp;D projects that require experimental\nevidence to complement simulations.\nResearch-oriented SOM labs aim to provide reliable experimental data that feed into:\n• Material selection for new engineered products.\n• Development of advanced materials (e.g., composites, alloys, polymers).\n• Structural optimization, safety and lifecycle prediction studies.\n\nHow the SOM Lab Supports Research Work:\n\n\nAdvanced Testing Equipment:\n• Computerized Universal Testing Machines (UTM)-for tensile,compression and bending tests.\n• Impact testing machines-for fracture toughness.\n• Hardness testers- (Rockwell, Brinell, Vickers).\n• Fatigue and torsion testing setups.\nThese allow precise, calibrated, repeatable testing necessary for research.\nNote:\n The Chennai campus also has NABL-accredited materials testing facilities,ensuring research data meets recognized quality and traceability standards\nTypes of Research Work:\n Enabled Material Property Evaluation\n• Determining properties of new or modified materials (e.g., Fiber-reinforced composites, additively manufactured specimens, recycled material blends).\n• Investigations into microstructural influence on mechanical behaviour.\nStructural Performance Studies\n• Testing structural elements to failure to understand load capacity, deformation and fracture mechanisms.\n• Experimental validation of FEM (Finite Element Method) models.\nInterdisciplinary Research\nThe SOM Lab often collaborates with:\n• Civil Engineering research (e.g., concrete, reinforcement, structural systems).\n• Mechanical Engineering materials research (e.g., fatigue, high-temperature behaviour).\n• Advanced materials research (like composites or nanomaterials).",
+        "image": "./assets/AB1/Thumbnail/STRENGTH-OF-MATERIALS-LAB.jpg",
+        "panoramaUrl": "./assets/AB1/360/STRENGTH-OF-MATERIALS-LAB.jpg"
+      },
+      {
+        "id": "AB1_Room_102_Chemistry_Lab",
+        "name": " AB1-102 Engineering Chemistry Lab",
+        "type": "Lab",
+        "description": "The Chemistry Division provides the opportunity for a B. Tech. undergraduate to obtain a thorough fundamental knowledge of various fields of chemistry with relevant industrial applications.\nIn addition to facilitating the B. Tech. program of the institute, the division offers postgraduate program in chemistry (M.Sc. Chemistry) with a comprehensive curricula catering to the needs of the industry.\nThe division, with the help of highly qualified and experienced faculty from various fields of Chemistry, offers Ph. D. program for bright and deserving candidates with zeal in carrying out research.\nThe research and education in the division envelopes the diversified fields in Chemistry such as Theoretical & Physical Chemistry; Inorganic Chemistry; Organic Chemistry and Analytical Chemistry.\n\nThe curriculum inculcates in the students a basic approach to find solutions for chemistry-related problems and develop skills and attitude necessary to pursue further studies.\nThe division has B. Tech., M. Sc., and research laboratories equipped with state-of-the-art instruments which help in having hands-on experience for the undergraduates and postgraduates apart from doing world-class research.\nThe goal of the division is to emphasize the importance of chemistry and apply it through research to cater to the needs of the society.",
+        "image": "./assets/AB1/Thumbnail/ENGINEERING-CHEMISTRY-LAB.jpg",
+        "panoramaUrl": "./assets/AB1/360/ENGINEERING-CHEMISTRY-LAB.jpg"
+      },
+      {
+        "id": "AB1_Room_202_Physics_Lab",
+        "name": " AB1-202 Engineering Physics Lab",
+        "type": "Lab",
+        "description": "The Physics Division has well equipped laboratory for training undergraduate students.\nThe Students lab includes facilities for several experiments in Modern Physics and Material Sciences.\nIn addition to the undergraduate laboratory, the division also houses adequately equipped R&D Labs for conducting research in areas related to material sciences.",
+        "image": "./assets/AB1/Thumbnail/ENGINEERING-PHYSICS-LABORATORY.jpg",
+        "panoramaUrl": "./assets/AB1/360/ENGINEERING-PHYSICS-LABORATORY.jpg"
+      },
+      {
+        "id": "AB1_Room_209_Software_Engineering_Lab",
+        "name": " AB1-209 Software Engineering Lab",
+        "type": "Lab",
+        "description": " The objective of the Software Engineering Laboratory is to familiarize students with the Software Development Life Cycle (SDLC) so that they are trained well in the various phases of SDLC, testing tools. Students are trained with software packages. The Laboratory has about 68 Pentium D systems. Students do various projects related to software metrics, software testing, quality assurance, software project management and software design.",
+        "image": "./assets/AB1/Thumbnail/SOFTWARE-ENGINEERING-LAB.jpg",
+        "panoramaUrl": "./assets/AB1/360/SOFTWARE-ENGINEERING-LAB.jpg"
+      },
+      {
+        "id": "AB1_Room_306_Control_Systems_Lab",
+        "name": " AB1-306 Control Systems Lab",
+        "type": "Lab",
+        "description": " Step into the Control and Instrumentation Lab at VIT Chennai, a dynamic space where abstract control theory becomes a tangible reality. Here, students get hands-on experience with cutting-edge equipment like the Quanser Rotary Servo Systems and the Feedback Magnetic Levitation System, which simulate complex industrial automation scenarios. Advanced software like MATLAB/Simulink and dSPACE are integrated with physical setups, allowing students to design, test, and tune PID controllers for real-time applications. This lab is instrumental in developing practical skills for careers in robotics, automation, and mechatronics, preparing engineers to control the machines of the future.",
+        "image": "./assets/AB1/Thumbnail/CONTROL-SYSTEMS-LAB.jpg",
+        "panoramaUrl": "./assets/AB1/360/CONTROL-SYSTEMS-LAB.jpg"
+      },
+      {
+        "id": "AB1_Analog_Electronic_Circuits_Lab",
+        "name": " AB1-307A Analog Electronic Circuits Lab",
+        "type": "Lab",
+        "description": "In Analog Electronic Circuits Laboratory, students carry-out experiments by designing circuits using Spice simulation tools as well as implementation and testing of analog circuits involving discrete components and ICs such as diodes, BJTs, MOSFETs and Op-Amps.\nThe student projects that involve analog electronic circuits are also built and tested in this laboratory.",
+        "image": "./assets/AB1/Thumbnail/ANLOG-COMPUTER-LAB.jpg",
+        "panoramaUrl": "./assets/AB1/360/ANLOG-COMPUTER-LAB.jpg"
+      },
+      {
+        "id": "AB1_Room_307A",
+        "name": " AB1-307A Analog Electronic Circuits Hardware Lab",
+        "type": "academic",
+        "description": "In Analog Electronic Circuits Hardware Laboratory, students carry-out experiments by designing circuits using Spice simulation tools as well as implementation and testing of analog circuits involving discrete components and ICs such as diodes, BJTs, MOSFETs and Op-Amps.\nThe student projects that involve analog electronic circuits are also built and tested in this laboratory.",
+        "image": "./assets/AB1/Thumbnail/ANALOG-ELECTRONIC-CIRCUITS-LAB.jpg",
+        "panoramaUrl": "./assets/AB1/360/ANALOG-ELECTRONIC-CIRCUITS-LAB.jpg"
+      },
+      {
+        "id": "AB1_Room_603_Power_Electronics_Lab",
+        "name": " AB1-603 Power Electronics Lab",
+        "type": "Lab",
+        "description": "The Power Electronics Hardware Lab at VIT Chennai, a cornerstone for School of Electrical Engineering (SELECT) students. This facility is where the theory of power conversion comes to life, providing intensive hands-on training for both undergraduate and postgraduate programs. You'll work with advanced equipment like multi-channel oscilloscopes, High Voltage/High Current measurement setups, and Power Quality Analyzers. This is a high-tech space dedicated to mastering the circuits that shape modern energy systems.",
+        "image": "./assets/AB1/Thumbnail/POWER-ELECTRONICS-LAB.jpg",
+        "panoramaUrl": "./assets/AB1/360/POWER-ELECTRONICS-LAB.jpg"
+      },
+      {
+        "id": "AB1_Geosciences_Research_Lab",
+        "name": " AB1-606 Geo Sciences Research Lab",
+        "type": "Lab",
+        "description": "The Geoscience Research Laboratory (GRL) is a specialized research facility dedicated to micropaleontology, with a strong focus on the identification, quantitative analysis, and interpretation of microfossils preserved in marine and terrestrial sediments. The laboratory supports cutting-edge research in paleoclimate reconstruction, palaeoceanography, biostratigraphy, environmental change, and gas hydrate studies, aligning its activities with international geoscience research priorities.\n GRL provides comprehensive infrastructure for sediment and marine core sample preparation, microfossil processing, and high-resolution microscopic observation. The laboratory actively collaborates with major international marine core repositories, including the Gulf Coast Repository (GCR), USA; Bremen Core Repository, Germany; Kochi Core Repository, Japan; and NCPOR, Goa, enabling access to globally significant sediment archives.\n Research activities span climatically sensitive and scientifically important regions such as the Arabian Sea, Bay of Bengal, Indian Ocean, Equatorial Pacific Ocean, Southern Ocean, Weddell Sea, and the Pichavaram mangroves. GRL maintains strong national and international collaborations with leading institutions, including UCLA, Rowan University, Georgia Tech, the Open University (UK), IITs, and the Wadia Institute of Himalayan Geology.\n A key strength of GRL is its implementation of advanced stable isotope techniques, including state-of-the-art clumped isotope studies conducted in collaboration with UCLA. The laboratory has been awarded multiple competitively funded research projects from national agencies such as ANRF, generating cumulative research funding exceeding ₹2 crore.\n Through sustained funding, access to global datasets, and interdisciplinary collaborations, GRL offers a comprehensive perspective on Earth’s dynamic climate and ocean history, matching the standards of premier geoscience laboratories worldwide. ",
+        "image": "./assets/AB1/Thumbnail/GEO-SCINCES-RESEARCH-LAB.jpg",
+        "panoramaUrl": "./assets/AB1/360/GEO-SCINCES-RESEARCH-LAB.jpg"
+      },
+      {
+        "id": "AB1_Room_707B_Mechatronics_Lab",
+        "name": " AB1-707B Centre for E-Automation Mechatronics Lab",
+        "type": "Lab",
+        "description": "Centre for e-Automation Technologies (CeAT) is set up in the year 2020 to accelerate the research and product development efforts in the specific fields related to automation providing the thrust to the local and national industrial growth.\nFurther, CeAT provides a platform for the faculty and students from multiple disciplines to come together to achieve common and greater goals by conducting collaborative research, developing new products, and providing automation solutions to the industry.\nCeAT pursues excellence in research and industry interaction and leads the successful amalgamation of research in the areas of robotics (assistive rehabilitation and smart robots), smart grid automation, additive manufacturing (3D printing), flexible industrial processes automation, smart factory automation, autonomous systems, and intelligent manufacturing.\nThe Centre for e-Automation Technologies aims to become a hub for intellectual solutions for automation needs through interactions with academicians, researchers, and industrialists across the globe.",
+        "image": "./assets/AB1/Thumbnail/CENTRE-FOR-E-AUTOMATION-MECHATRONICS-LAB.jpg",
+        "panoramaUrl": "./assets/AB1/360/CENTRE-FOR-E-AUTOMATION-MECHATRONICS-LAB.jpg"
+      },
+      {
+        "id": "AB1_Room_707C_Smart_Grid_Lab",
+        "name": " AB1-707C Smart Grid Lab",
+        "type": "Lab",
+        "description": "Welcome to the Smart Grid Lab at VIT Chennai, a state-of-the-art facility focused on the future of electric power. This unique lab allows students to work with a miniature operational grid, complete with a 5 kW rooftop PV panel and a 2 kW wind turbine emulator. Using the OPAL-RT real-time digital simulator, they can model and test advanced scenarios like microgrid control, fault analysis, and integrating renewable energy sources. It is here that future engineers learn to design the intelligent, self-healing power systems that will define sustainable energy management.",
+        "image": "./assets/AB1/Thumbnail/SMART-GRID-LAB.jpg",
+        "panoramaUrl": "./assets/AB1/360/SMART-GRID-LAB.jpg"
+      },
+      {
+        "id": "AB1_Nethaji_Auditorium",
+        "name": "AB1 Nethaji Auditorium",
+        "type": "auditorium",
+        "description": "The Nethaji Auditorium, located on the seventh floor of Academic Block 1, offers a well-designed and fully equipped venue for academic gatherings. With a seating capacity of 400, it provides an ideal space for lectures, seminars, and institutional events. The auditorium is named in honour of the eminent freedom fighter Netaji Subhas Chandra Bose.",
+        "image": "./assets/AB1/Thumbnail/NETHAJI-AUDITORIUM.jpg",
+        "panoramaUrl": "./assets/AB1/360/NETHAJI-AUDITORIUM.jpg"
+      },
+      {
+        "id": "AB1_Centre_Point",
+        "name": "AB1 Amphitheatre",
+        "type": "facility",
+        "description": " ",
+        "image": "./assets/AB1/Thumbnail/AB1-Amphitheatre.jpg",
+        "panoramaUrl": "./assets/AB1/360/AB1-Amphitheatre.jpg"
+      }
+    ]
+  },
+  "Building008": {
+    "displayName": "Swimming Pool",
+    "type": "facility",
+    "description": "VIT Chennai has a 25 m × 16 m swimming pool suitable for training and competitions for both men and women, with qualified and experienced coach and Lifeguards.\nThe swimming pool is located near the Delta Block.\nSwimming Pool Timings:\n• Men: 6:00 AM – 10:00 AM | 4:30 PM – 6:30 PM\n• Women: 11:30 AM – 4:00 PM",
+    "image": "./assets/SWIMMING POOL/Thambnail/SWIMMING-POOL.jpg",
+    "panoramaUrl": "./assets/SWIMMING POOL/360/SWIMMING POOL.jpg"
+  },
+  "Building009": {
+    "displayName": "MAB1",
+    "type": "academic",
+    "description": " ",
+    "image": "./assets/Sigma/Thumbnail/Sigma_Block.jpg",
+    "panoramaUrl": "./assets/Sigma/360/INDIAN-BANK.jpg",
+    "subLocations": [
+      {
+        "id": "Sigma_Block_Advanced_Materials_Processing_Lab",
+        "name": "MAB1 – Advanced Materials Processing Lab",
+        "type": "research_Lab",
+        "description": "The laboratory is equipped with a high-temperature oven  and furnaces for controlled drying, curing, and thermal treatment of synthesized materials, ensuring uniform heat distribution and reproducible results. The photocatalytic reactor enables studies on light-driven reactions such as pollutant degradation under controlled irradiation conditions. The MOCVD  and PECVD systems facilitates the deposition of high-quality thin films and nanostructures with precise control over thickness, composition, and crystallinity.\n  while the UV chamber supports material aging, photostability, and UV-assisted reaction studies under well-defined exposure conditions. The provides a sterile and safe workspace for microbiological, biochemical, and nanomaterials research.\n A lyophilizer (freeze dryer) is used for long-term preservation of biological and chemical samples by removing water through sublimation under low pressure. This process maintains the structural and functional integrity of sensitive materials such as proteins, enzymes, microbial cultures, and nanomaterials. Together, these instruments enhance research capability across interdisciplinary scientific fields.",
+        "image": "./assets/Sigma/Thumbnail/PHYSICS-RESEARCH-LABORATORY.jpg",
+        "panoramaUrl": "./assets/Sigma/360/PHYSICS RESEARCH LABORATORY.jpg"
+      },
+      {
+        "id": "Sigma_Block_CIF_Lab",
+        "name": "MAB1 – Central Instrumentation Facility (SAS)",
+        "type": "research_Lab",
+        "description": "The DRS UV–Visible spectrophotometer, fluorescence spectrophotometer, and CHN analyzer are essential for optical, photoluminescence, and elemental characterization of functional materials, nanostructures, and catalysts.\n Electrochemical impedance analysis provides critical insights into charge transport, interfacial resistance, and electrochemical performance in batteries, supercapacitors, and energy devices. Thin-film fabrication tools such as thermal evaporation, e-beam evaporation, and RF sputtering enable controlled deposition of metals, semiconductors, and dielectric layers for device development.\n The solar simulator and glove box facilitate standardized photovoltaic testing and safe handling of air- and moisture-sensitive materials under inert conditions. TGA analysis and plasma reactor systems support thermal stability studies and surface modification, strengthening advanced materials and energy research capabilities.",
+        "image": "./assets/Sigma/Thumbnail/CENTRAL-INSTRUMENTATION-FACILITY-SAS.jpg",
+        "panoramaUrl": "./assets/Sigma/360/CENTRAL INSTRUMENTATION FACILITY-SAS.jpg"
+      },
+      {
+        "id": "Sigma_Block_Wet_Synthesis_Lab",
+        "name": "MAB1 – Wet Synthesis Lab",
+        "type": "Lab",
+        "description": "Wet Synthesis Laboratory is for preparation of materials using solution-based techniques such as sol–gel processing, co-precipitation, hydrothermal synthesis, and chemical reduction methods. The lab enables precise control over composition, particle size, morphology, and phase of the materials through careful regulation of parameters like pH, temperature, concentration, and reaction time.\n  It supports the synthesis of nanomaterials, functional oxides, polymers, composites, and energy-related materials for applications in electronics, catalysis, sensors, and biomedical fields. ",
+        "image": "./assets/Sigma/Thumbnail/WET-SYSNTHESIS-LAB.jpg",
+        "panoramaUrl": "./assets/Sigma/360/WET-SYSNTHESIS-LAB.jpg"
+      },
+      {
+        "id": "Sigma_Block_Laser_Lab",
+        "name": "MAB1 – Laser Lab",
+        "type": "Lab",
+        "description": "The Nd:YAG nanopulsed laser is a solid-state laser that typically operates at 1064 nm and delivers energy in nanosecond-duration pulses. These ultra-short pulses enable high peak power, making the laser suitable for precise material processing and nonlinear optical studies with minimal thermal damage. Nanopulsed Nd:YAG lasers are widely used in applications such as laser ablation, thin-film deposition, spectroscopy, and photonic device fabrication. ",
+        "image": "./assets/Sigma/Thumbnail/LASER-LAB.jpg",
+        "panoramaUrl": "./assets/Sigma/360/LASER-LAB.jpg"
+      },
+      {
+        "id": "Indian_Bank",
+        "name": "Indian Bank",
+        "type": "banking",
+        "description": "To meet every financial need without the hassle of long travel or waiting in queues, VIT Chennai houses a fully operational Indian Bank branch on campus along with a 24/7 ATM facility, ensuring students’ banking needs are handled conveniently and efficiently.",
+        "image": "./assets/Sigma/Thumbnail/INDIAN BANK.jpg",
+        "panoramaUrl": "./assets/Sigma/360/INDIAN-BANK.jpg"
+      }
+    ]
+  },
+  "Building010": {
+    "displayName": "GymKhaana Restaurant",
+    "type": "facility",
+    "description": "While the canteen within the campus provides tasty and healthy food for our students, the Gymkhana Restaurant serves a Multi-Cuisisne treat. Students who would love to try out exotic cuisines to satisfy their taste buds visit the Gymkhana Restaurant and indulge in the delicacies prepared here.",
+    "image": "./assets/GYMKHANA/Thumbnail/GYMKHANA.jpg",
+    "panoramaUrl": "./assets/GYMKHANA/360/GYMKHANA.jpg",
+    "subLocations": [
+      {
+        "id": "Indoor_Games",
+        "name": "Indoor Games",
+        "type": "recreation",
+        "description": "Facility for indoor games and recreational activities.",
+        "image": "./assets/GYMKHANA/Thumbnail/008-INDOOR GAMES.jpg",
+        "panoramaUrl": "./assets/GYMKHANA/360/INDOOR-GAMES.jpg"
+      },
+      {
+        "id": "Gym",
+        "name": "Gym",
+        "type": "fitness",
+        "description": "In addition to the Health Center, a well- equipped Gym is also present within the college premises for the students to use and stay in their best shape.",
+        "image": "./assets/GYMKHANA/Thumbnail/009-GYM.jpg",
+        "panoramaUrl": "./assets/GYMKHANA/360/GYM.jpg"
+      }
+    ]
+  },
+  "Building011": {
+    "displayName": "Admin Block",
+    "type": "academic",
+    "description": "The Admin Block Center building houses the Administrative Offices of the college with State-Of-The-Art facilities ensuring the smooth and organized functioning of our college at all times.",
+    "image": "./assets/ADMIN BLOCK/Thumbnail/ADMINISTRATION-BLOCK.jpg",
+    "panoramaUrl": "./assets/ADMIN BLOCK/360/ADMINISTRATION-BLOCK.jpg",
+    "subLocations": [
+      {
+        "id": "Admin_Block_Gallery",
+        "name": "ADB Gallery",
+        "type": "gallery",
+        "description": "Gallery of the Admin Block.",
+        "image": "./assets/ADMIN BLOCK/Thumbnail/ADMIN-BLOCK-GROUND-FLOOR.jpg",
+        "panoramaUrl": "./assets/ADMIN BLOCK/360/ADMIN-BLOCK-GROUND-FLOOR.jpg"
+      },
+      {
+        "id": "Fashion_Institute_Technology",
+        "name": "VFIT - VIT Fashion Institute of Technology",
+        "type": "academic",
+        "description": "VIT Fashion Institute of Technology (VFIT) State-of-the-Art Laboratories\nVFIT offers cutting-edge laboratories and learning spaces for B. Tech Fashion Technology\nand B.Sc. Fashion Design students. These labs provide hands-on exposure in designing,\npattern making, garment construction, wet processing, testing, CAD, and research experience,\nusing industry-standard machinery, tools, and software.",
+        "image": "./assets/ADMIN BLOCK/Thumbnail/FASHION-INSTITUTE-OF-TECHNOLOGY.jpg",
+        "panoramaUrl": "./assets/ADMIN BLOCK/360/FASHION-INSTITUTE-OF-TECHNOLOGY.jpg"
+      },
+      {
+        "id": "ADB_Garment_Construction_Lab",
+        "name": "ADB-801 Garment Construction Lab",
+        "type": "Lab",
+        "description": "Capacity: 60 seats\nOverview:\nADB 801 is a high-tech industry standard garment construction laboratory, designed to provide practical training in industrial apparel machinery, technology, and operational principles.\nStudents gain experience in constructing garments for men, women, kids, lingerie, and intimate wear, using machines suited for different fabrics, seams, and finishing requirements.\nKey Equipment & Technology:\n• Single Needle Lockstitch (SNLS) Machines: Structural seams, topstitching, adjustable stitch length, feed dog, and presser foot\n• Double Needle Lockstitch (DNLS) Machines: Parallel topstitching, decorative seams, heavier fabrics, synchronised dual needles\n• Overlock Machines: Edge finishing, seam trimming, stretch seams, loopers, differential feed\n• Flatlock Machines: Flat seams for knitwear and sportswear, comfort and low-bulk finishing\n• Button Attachment & Buttonhole Machines: Automated button fixing and buttonhole stitching, programmable feed and punch mechanisms\n• Fashion Maker Machines: Complex garment assembly, decorative stitching, custom stitch patterns\n• Embroidery Machines: Computer-controlled, patterned embroidery, stepper motors, hooping mechanisms, pre-programmed designs \nLearning Outcomes:\n• Understanding industrial sewing technology, machine mechanics, and operational principles\n• Hands-on experience in constructing men’s, women’s, kids’, lingerie, and intimate apparel using appropriate machinery for different fabrics and stitch requirements\n• Exposure to garment finishing, seam strength, and operational efficiency\n• Use of mannequins and dress forms for garment visualisation, fitting, and design evaluation",
+        "image": "./assets/ADMIN BLOCK/Thumbnail/GARMENT-CONSTRUCTION-LAB.jpg",
+        "panoramaUrl": "./assets/ADMIN BLOCK/360/GARMENT-CONSTRUCTION-LAB.jpg"
+      },
+      {
+        "id": "ADB_805_Pattern_Making_Lab",
+        "name": "ADB-805 Pattern Making Lab",
+        "type": "Lab",
+        "description": "Capacity: 60 seats\n\nOverview:\nADB 805 focuses on pattern development and draping, enabling students to convert design concepts into production-ready patterns.\nKey Equipment & Technology:\n• Dress Forms (Men, Women, Kids – Full & Half): Draping, fitting, garment development\n• Pattern Tables: Flat pattern making, grading, layout\n• Mannequins for Display: Visualisation of finished garments\nLearning Outcomes:\n• Develop flat patterns, grading, and size analysis\n• Practice draping techniques for garment design realisation\n• Integrate design visualisation with production-ready patterns",
+        "image": "./assets/ADMIN BLOCK/Thumbnail/PATTERN-MAKING-LAB.jpg",
+        "panoramaUrl": "./assets/ADMIN BLOCK/360/PATTERN-MAKING-LAB.jpg"
+      },
+      {
+        "id": "ADB_601_Textile_Wet_Processing_Lab",
+        "name": "ADB-601 Textile Wet Processing Lab",
+        "type": "Lab",
+        "description": "Capacity: 60 seats\nOverview:\nADB 601 provides hands-on exposure to textile wet processing, dyeing, finishing, and printing, emphasising industrial machinery and operational principles.\nKey Equipment & Technology:\n• Wash Baths & Industrial Washing Machines: Pre-treatment, washing, finishing, controlled temperature and agitation\n• Oven and HTHP Machine: High-temperature, high-pressure processing for dye fixation and fabric stabilisation\n• Padding Mangles: Even application of dyes, chemicals, and finishes; Roller system ensures uniform impregnation; Supports coating, softening, and functional finishes\n• Butterfly Printing Table / Printing Machines: Manual and semi-automatic fabric printing; Supports screen, block, and transfer printing techniques; Ensures precision, repeatability, and controlled colour application\nLearning Outcomes:\n• Operate industrial wet processing machinery\n• Understand dyeing, finishing, and printing processes\n• Produce uniform, high-quality treated fabrics and prints",
+        "image": "./assets/ADMIN BLOCK/Thumbnail/TEXTILE-WET-PROCESSING-LAB.jpg",
+        "panoramaUrl": "./assets/ADMIN BLOCK/360/TEXTILE-WET-PROCESSING-LAB.jpg"
+      },
+      {
+        "id": "Moot_Court_Hall",
+        "name": "ADB - Moot Court Hall",
+        "type": "academic",
+        "description": "Moot court is an integral part of law school curriculum and it is no different at VITSOL.\nThe presence of a moot court culture in a law school assists law students in working their way through an almost real-life case.\nWith rigour in research leading up to a moot, a student stands to inculcate legal reasoning and to hone oral argument skills, thereby taking the institutional training of a law student a step closer in enabling a complete legal education.\n\nThe Moot Court Society at VITSOL aims to further student interest and involvement in moot court while also strengthening the inner workings for a structured moot court society, culminating to ‘Intra-mural’ rounds.\nThe Intra-Mural rounds are internal moot court rounds held within the School of Law that facilitates and provides a platform for student moot court activities.\n\nVITSOL Moot Court Society has been successfully organizing Moot Court Competition on both National and International law, called as the “VITSOL National Moot Court Competition on National Law” since 2015 and the “VITSOL National Moot Court Competition on International Law” since 2016.\nThe 1st VITSOL National Moot Court Competition on International Law was held in March 2016.\nThe theme of the moot proposition was international humanitarian Law.\nThe 2nd, 3rd and 4th edition of VITSOL National Moot Court Competitions were held in 2017, 2018 and 2019 respectively.\nThe major themes of the Moot Court Competitions were: International criminal law, traditional fishing rights over maritime zones of a neighbouring state, Rohingya Refugee crisis and Smuggling drug for financing terrorism and UN Sanctions.\nThere is participation from all over India with a team from Nepal also being hosted at VITSOL.\nAn average number of 20 teams from different universities across India had participated each year in the International Law Moot Court Competition.\n\nThe “VITSOL National Moot Court Competition on National Law” has been held every year since 2015 and are based on contemporary law topics.\nThe 2019 VITSOL National Moot Court Competition on National Law was based on Surrogacy law in India that had 29 teams from all over India.",
+        "image": "./assets/ADMIN BLOCK/Thumbnail/MOOT-COURT-HALL.jpg",
+        "panoramaUrl": "./assets/ADMIN BLOCK/360/MOOT-COURT-HALL.jpg"
+      },
+      {
+        "id": "VOC_Auditorium",
+        "name": "ADB - VOC Auditorium",
+        "type": "auditorium",
+        "description": "Large auditorium used for seminars, cultural events, and conferences.",
+        "image": "./assets/ADMIN BLOCK/Thumbnail/VOC-AUDITORIUM.jpg",
+        "panoramaUrl": "./assets/ADMIN BLOCK/360/VOC-AUDITORIUM.jpg"
+      },
+      {
+        "id": "Library_Reading_Area",
+        "name": "Library Reading Area",
+        "type": "academic",
+        "description": "A spacious library that houses 67,370 books is a plethora of books ranging from Academic, Journals, to Newspapers, Magazines, and Published Research Papers, creates the perfect combination of opportunity and ambience to enable students enhance their skills and knowledge.",
+        "image": "./assets/ADMIN BLOCK/Thumbnail/LIBRARY-GROUND-FLOOR-VIEW-1.jpg",
+        "panoramaUrl": "./assets/ADMIN BLOCK/360/LIBRARY-GROUND-FLOOR-VIEW-1.jpg"
+      },
+      {
+        "id": "Library_Digital",
+        "name": "Digital Library",
+        "type": "academic",
+        "description": "Powered by modern technology, the Digital Library at VIT Chennai, provides students with numerous titles in the Digital form cutting down the need for queue and manual management of books, saving a lot of time and effort on all front. Also, we live in the age of data and technology today, our students too can feel their power when it comes to enhancing their knowledge and skills by browsing through our Digital Library online from anywhere within the campus.",
+        "image": "./assets/ADMIN BLOCK/Thumbnail/LIBRARY-FIRST-FLOOR.jpg",
+        "panoramaUrl": "./assets/ADMIN BLOCK/360/LIBRARY-FIRST-FLOOR.jpg"
+      }
+    ]
+  },
+  "Building012": {
+    "displayName": "North Square",
+    "type": "facility",
+    "description": "North Square is a vibrant hub serving a delightful mix of cuisines—Arabian, Chinese, and traditional South Indian. Students can also enjoy a range of refreshments, snacks, and beverages, including classic filter coffee and tea. It’s the perfect spot to unwind, savor flavors, and recharge. North Square truly brings a world of taste right to the campus.",
+    "image": "./assets/Dining Hall/Thumbnail/North_Square.jpg",
+    "panoramaUrl": "./assets/Dining Hall/360/North_Square.jpg"
+  },
+  "Building013": {
+    "displayName": "Alpha Block",
+    "type": "facility",
+    "description": " ",
+    "image": "./assets/Health Center/Thumbnail/ALPHA BLOCK.jpg",
+    "panoramaUrl": "",
+    "subLocations": [
+      {
+        "id": "Health_Center",
+        "name": "Health Center",
+        "type": "facility",
+        "description": "Run by the Chettinad Super Speciality Hospital, the Health Center caters to every medical need of our students 24/7. Equipped with the modern medical support to attend to basic needs as well as emergencies, this Health Center can treat our students with utmost care.",
+        "image": "./assets/Health Center/Thumbnail/HEALTH CENTER.jpg",
+        "panoramaUrl": "./assets/Health Center/360/HEALTH-CENTER.jpg"
+      }
+    ]
+  },
+  "Building014": {
+    "displayName": "Academic Block 5",
+    "type": "academic",
+    "description": " ",
+    "image": "./assets/AB5/Thumbnail/AB5.jpg",
+    "panoramaUrl": ""
+  },
+  "Building015": {
+    "displayName": "Tennis Court",
+    "type": "playground",
+    "description": "Outdoor tennis courts for student recreation and sports activities.",
+    "image": "./assets/Out Door Location/Thumbnail/CRICKET GROUND.jpg",
+    "panoramaUrl": ""
+  },
+  "Building016": {
+    "displayName": "Football Ground",
+    "type": "playground",
+    "description": "Open ground area for football and recreational activities.",
+    "image": "./assets/Out Door Location/Thumbnail/CRICKET GROUND.jpg",
+    "panoramaUrl": ""
+  },
+  "Building017": {
+    "displayName": "Basketball Court",
+    "type": "playground",
+    "description": "Outdoor basketball courts for student recreation and sports activities.",
+    "image": "./assets/Out Door Location/Thumbnail/BASKET BALL GROUND.jpg",
+    "panoramaUrl": "./assets/Out Door Location/360/010-BASKET-BALL-GROUND.jpg"
+  },
+  "Building018": {
+    "displayName": "Volleyball Court",
+    "type": "playground",
+    "description": "Open sports ground for various outdoor sports and recreational activities.",
+    "image": "./assets/Out Door Location/Thumbnail/CRICKET GROUND.jpg",
+    "panoramaUrl": ""
+  },
+  "Building019": {
+    "displayName": "Ground",
+    "type": "playground",
+    "description": "VIT Chennai recognizes that physical activity is integral to holistic learning. Accordingly, the institution has established premier indoor and outdoor sports facilities, offering students ample avenues to unwind and rejuvenate amid their academic commitments.",
+    "image": "./assets/Out Door Location/Thumbnail/CRICKET GROUND.jpg",
+    "panoramaUrl": ""
+  },
+  "Building020": {
+    "displayName": "Omega Block",
+    "type": "facility",
+    "description": " ",
+    "image": "./assets/Omega Block/Thumbnail/Omega_Block.jpg",
+    "panoramaUrl": ""
+  },
+  "Building021": {
+    "displayName": "Cricket Ground",
+    "type": "playground",
+    "description": "VIT Chennai Cricket Ground. where the cricket matches are played.",
+    "image": "./assets/Out Door Location/Thumbnail/CRICKET GROUND.jpg",
+    "panoramaUrl": "./assets/Out Door Location/360/CRICKET GROUND.jpg"
+  },
+  "Building022": {
+    "displayName": "Guest House",
+    "type": "facility",
+    "description": "Built and stylized with a modish touch, 15 furnished and captivating rooms are allocated for out guesets within the campus. These rooms ensure that our guests enjoy a cozy stay while they are here at VIT Chennai.",
+    "image": "./assets/Guest House/Thumbnail/GUEST HOUSE ENTRANCE.jpg",
+    "panoramaUrl": "./assets/Guest House/360/GUEST-HOUSE-ENTRANCE.jpg"
+  },
+  "Building023": {
+    "displayName": "Student's Parking",
+    "type": "facility",
+    "description": "An area designated for student vehicle parking.",
+    "image": "./assets/Parking Area/Thumbnail/Parking.jpg",
+    "panoramaUrl": ""
+  },
+  "Building024": {
+    "displayName": "Mahatma Gandhi Auditorium",
+    "type": "facility",
+    "description": "The Mahatma Gandhi Auditorium stands as one of our premier venues, featuring a state-of- the-art design and superior acoustics. With a seating capacity of 2,500, it is ideal for large academic gatherings, cultural events, and institutional ceremonies. Its modern infrastructure enhances the overall learning environment and supports large-scale academic engagements",
+    "image": "./assets/MG Audiorium/Thumbnail/MAHATMA GANDHI AUDITORIUM.jpg",
+    "panoramaUrl": "./assets/MG Audiorium/360/MAHATMA-GANDHI-AUDITORIUM.jpg",
+    "subLocations": [
+      {
+        "id": "Badminton_Court",
+        "name": "Badminton Court",
+        "type": "facility",
+        "description": " ",
+        "image": "./assets/MG Audiorium/Thumbnail/BADMINTON COURT.jpg",
+        "panoramaUrl": "./assets/MG Audiorium/360/BADMINTON COURT.jpg"
+      }
+    ]
+  },
+  "Building025": {
+    "displayName": "VIT-SEDAXIS",
+    "type": "academic",
+    "description": "\n\nCENTRE OF EXCELLENCE FOR ADDITIVE MANUFACTURING\n\nThe VIT-SEDAXIS Additive Manufacturing Centre for Excellence in VIT Chennai campus offers 3D Printing services and corporate trainings to Industries. In keeping with the Centre’s vision of making 3D printing accessible to a broad user community, it is outfitted with cutting-edge professional-grade 3D printers in a variety of technologies that can be used by all SMEs (Small and Medium Enterprises) in the region. Also, it helps students to get trained in 3D Printing technologies by offering training programmes, Internships and also getting parts 3D printed for their projects. Services offered: \n• Entire Functional Automotive Expo working models \n• Biomedical Training Kits \n• Design and Product Development \n• Prototyping \n• Low Volume Manufacturing \n• 3D Printing \n• Vacuum Casting \n• CNC Machining \n• Training in 3D Printing \n• Luxury Décor Products \n• Lifestyle Products\n 3D Printing Technologies and other facilities available \n• Powder bed fusion: Selective Laser Sintering \n• Continuous Carbon Fiber 3D Printing \n• Continuous Basalt Fiber 3D Printing \n• Digital Light Processing of Photo polymeric resins SLA/DLP \n• Fused Filament Fabrication (FFF/FDM) \n• Fused Granular Fabrication \n• Selective Laser Sintering of Polymeric materials \n• Ceramic and Metal 3D Printing \n• Vacuum Casting \n• Machining ",
+    "image": "./assets/SEDAXIS/Thumbnail/02SEDAXIS.jpg",
+    "panoramaUrl": "./assets/SEDAXIS/360/SEDAXIS.jpg"
+  },
+  "Building026": {
+    "displayName": "Student's Parking 2",
+    "type": "facility",
+    "description": "An area designated for student vehicle parking.",
+    "image": "./assets/Parking Area/Thumbnail/Parking.jpg",
+    "panoramaUrl": ""
+  },
+  "Building027": {
+    "displayName": "Staff Parking 1",
+    "type": "facility",
+    "description": "An public area designated for vehicle parking.",
+    "image": "./assets/Parking Area/Thumbnail/Parking.jpg",
+    "panoramaUrl": ""
+  },
+  "Building028": {
+    "displayName": "Staff Parking 2",
+    "type": "facility",
+    "description": "An public area designated for vehicle parking.",
+    "image": "./assets/Parking Area/Thumbnail/Parking.jpg",
+    "panoramaUrl": ""
+  },
+  "Building029": {
+    "displayName": "Gazebo",
+    "type": "facility",
+    "description": "Outdoor area for relaxation and social gatherings.",
+    "image": "./assets/Dining Hall/Thumbnail/Gazebo.jpg",
+    "panoramaUrl": ""
+  },
+  "Building030": {
+    "displayName": "LH-B Ladies Hostel-B",
+    "type": "hostel",
+    "description": " At VIT Chennai, the hostel system includes five Men’s Hostels and two Ladies’ Hostels, each designed to provide a safe, comfortable, and enriching residential experience.\nEvery hostel is equipped with state-of-the-art gymnasiums and indoor games facilities, high-speed Wi-Fi connectivity, centralized washing machine services, and 24/7 in-house medical care with ambulance support through a tie-up with a reputed hospital.\nStudents can relax and unwind in entertainment halls, enjoy open-air movie screenings, and access exclusive visitors’ lounges. Snack vending machines are available across all hostel blocks. Safety is ensured through round-the-clock security personnel and comprehensive CCTV surveillance across the hostel premises.\nAdditional amenities include RO-treated drinking water on every floor, solar hot water for bathing, excellent housekeeping with a green and eco-friendly ambience, and fresh fruit and juice stalls within the campus. The hostels maintain a strictly smoking-free and ragging-free environment.\nVIT Chennai hostels also follow a paperless green campus system, enabling digital management of outings, leave approvals, information displays, and campus events.\nSpacious and hygienic dining halls cater to diverse tastes, offering vegetarian, non-vegetarian, special, and Food Park dining options, managed by multiple caterers. Special festival menus are served regularly, along with night canteen services for daily refreshments.\nB Block accommodates 2,373 female students in 2-, 3-, and 4-bedded A/C and Non-A/C rooms. Amenities include a Night Canteen, Gymnasium, Badminton Court, indoor games facilities, and a Juice Stall, offering a safe, comfortable, and active living space.",
+    "image": "./assets/Hostel/Thumbnail/HOSTEL-B-BLOCK.jpg",
+    "panoramaUrl": "./assets/Hostel/360/HOSTEL-B-BLOCK.jpg",
+    "subLocations": [
+      {
+        "id": "Hostel_A_Block_2_Bedroom",
+        "name": "2 Bedroom",
+        "type": "hostel",
+        "description": " ",
+        "image": "./assets/Hostel/Thumbnail/2BAroom.jpg",
+        "panoramaUrl": "./assets/Hostel/360/2BAroom.jpg"
+      }
+    ]
+  },
+  "Building031": {
+    "displayName": "LH-C Ladies Hostel-C",
+    "type": "hostel",
+    "description": " At VIT Chennai, the hostel system includes five Men’s Hostels and two Ladies’ Hostels, each designed to provide a safe, comfortable, and enriching residential experience.\nEvery hostel is equipped with state-of-the-art gymnasiums and indoor games facilities, high-speed Wi-Fi connectivity, centralized washing machine services, and 24/7 in-house medical care with ambulance support through a tie-up with a reputed hospital.\nStudents can relax and unwind in entertainment halls, enjoy open-air movie screenings, and access exclusive visitors’ lounges. Snack vending machines are available across all hostel blocks. Safety is ensured through round-the-clock security personnel and comprehensive CCTV surveillance across the hostel premises.\nAdditional amenities include RO-treated drinking water on every floor, solar hot water for bathing, excellent housekeeping with a green and eco-friendly ambience, and fresh fruit and juice stalls within the campus. The hostels maintain a strictly smoking-free and ragging-free environment.\nVIT Chennai hostels also follow a paperless green campus system, enabling digital management of outings, leave approvals, information displays, and campus events.\nSpacious and hygienic dining halls cater to diverse tastes, offering vegetarian, non-vegetarian, special, and Food Park dining options, managed by multiple caterers. Special festival menus are served regularly, along with night canteen services for daily refreshments.\nC’ Block provides 2- and 4-bedded A/C and Non-A/C accommodation for 1,546 male students. Facilities include Night Canteen, snack and fresh juice stalls, Gymnasium, Badminton Court, indoor games, and a Juice Stall, supporting daily convenience and recreation.\n C’ Block provides 2- and 4-bedded A/C and Non-A/C accommodation for 1,624 female students. The block features Night Canteen, snack and fresh juice stalls, Open-Air Gymnasium, indoor games, and a Juice Stall for convenience and recreation.",
+    "image": "./assets/Hostel/Thumbnail/HOSTEL-C-BLOCK.jpg",
+    "panoramaUrl": "./assets/Hostel/360/HOSTEL-C-BLOCK.jpg",
+    "subLocations": [
+      {
+        "id": "Hostel_C_Block_Mess",
+        "name": "LH-C Ladies Hostel-C Mess",
+        "type": "hostel",
+        "description": " ",
+        "image": "./assets/Hostel/Thumbnail/CBlockMess.jpg",
+        "panoramaUrl": "./assets/Hostel/360/CBlockMess.jpg"
+      },
+      {
+        "id": "C_Block_4_Bedroom",
+        "name": "4 Bedroom",
+        "type": "facility",
+        "description": " ",
+        "image": "./assets/Hostel/Thumbnail/CBlock4Bedroom.jpg",
+        "panoramaUrl": "./assets/Hostel/360/CBlock4Bedroom.jpg"
+      }
+    ]
+  },
+  "Building032": {
+    "displayName": "Site Office",
+    "type": "facility",
+    "description": "Site office for campus maintenance and operations.",
+    "image": "./assets/Parking Area/Thumbnail/SiteOffice.jpg",
+    "panoramaUrl": ""
+  },
+  "Building033": {
+    "displayName": "Transport Office",
+    "type": "facility",
+    "description": "Transport office for managing campus transportation services.",
+    "image": "./assets/Parking Area/Thumbnail/TransportOffice.jpg",
+    "panoramaUrl": ""
+  },
+  "Main_Gate": {
+    "displayName": "Main Gate",
+    "type": "landmark",
+    "description": "At the heart of Vandalur stands Gate 1 — the majestic main entrance of VIT Chennai. It’s more than just a gateway, it’s the passage where every journey begins, where dreams step into reality. It’s the gateway that warmly welcomes everyone into the vibrant world of VIT Chennai.",
+    "image": "./assets/Gate/Thumbnail/ENTRANCE.jpg",
+    "panoramaUrl": "./assets/Gate/360/ENTRANCE.jpg"
+  },
+  "Gate": {
+    "displayName": "Gate 2",
+    "type": "landmark",
+    "description": "Secondary entrance gate to campus.",
+    "image": "./assets/Gate/Thumbnail/GATE-2.jpg",
+    "panoramaUrl": "./assets/Gate/360/GATE 2.jpg"
+  }
+}
