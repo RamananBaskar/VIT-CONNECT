@@ -1,6 +1,10 @@
 const jwt = require('jsonwebtoken');
 const User = require('../models/User');
 
+if (process.env.NODE_ENV === 'production' && !process.env.JWT_SECRET?.trim()) {
+  throw new Error('JWT_SECRET is required in production.');
+}
+
 const JWT_SECRET = process.env.JWT_SECRET || 'vit_connect_super_secret_jwt_key_2026';
 
 async function protect(req, res, next) {

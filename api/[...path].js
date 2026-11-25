@@ -1,6 +1,8 @@
-const { app, initDB } = require('../server/server');
+import server from '../server/server.js';
 
-module.exports = async (req, res) => {
+const { app, initDB } = server;
+
+export default async function handler(req, res) {
   await initDB();
   return app(req, res);
-};
+}

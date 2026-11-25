@@ -3,6 +3,8 @@ server/node_modules/
 dist/
 .vercel/
 server/.env
+.env
+.env.local
 *.log
 .DS_Store
 

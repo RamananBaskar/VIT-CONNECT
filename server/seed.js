@@ -3,6 +3,12 @@ const { connectDB, disconnectDB } = require('./config/db');
 const { seedDatabase } = require('./seedData');
 
 async function runSeed() {
+  if (process.env.NODE_ENV === 'production' || process.env.USE_MEMORY_DB !== 'true') {
+    console.error('Demo seeding requires USE_MEMORY_DB=true in a local development environment.');
+    process.exitCode = 1;
+    return;
+  }
+
   try {
     await connectDB();
     const result = await seedDatabase({ reset: true });
